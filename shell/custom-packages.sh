@@ -52,6 +52,5 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-turboacc"
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES easytier luci-app-easytier"
 # 统一文件共享
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES webdav2 luci-app-unishare"
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-upnp miniupnpd iptables-nft"
+CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-upnp miniupnpd"
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES vlmcsd luci-app-vlmcsd"
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES cloudflared luci-app-cloudflared"
